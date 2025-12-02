@@ -1,13 +1,12 @@
 #include<stdio.h>
+#include<ctype.h>
 int main(){
-    char ch,choise;
+    char ch;
     printf("enter a character:");
     scanf(" %c",&ch);
+    ch=tolower(ch);
 
-    printf("1.a/n2.e/n3.i/n4.o/n5.u/n enter your choise");
-    scanf("%c",&choise)
-
-    switch(choise)
+    switch(ch)
     {
         case 'a' :printf("vowel");
         break;

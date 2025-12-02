@@ -1,0 +1,12 @@
+ 
+Roll no: 23
+Name: akanksha
+Subject1: java
+Marks:23.00
+Subject2: python
+Marks:78.00
+Subject3: c++
+Marks:89.00
+Total:190.00
+Average:63.33
+Grade:c
